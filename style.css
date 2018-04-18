@@ -29,12 +29,12 @@ body {
 }
 
 .roasting p {
-  color: #938E89;
+  color: Black;
   text-align: center;
   line-height: 24px;
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 500;
 }
 
 .spectrum div {
@@ -73,8 +73,8 @@ body {
 
 /* Typography */
 h1 {
-  color: Midnightblue
-  background-color: Aqua;
+  color: Midnightblue;
+  background-color: Green;
   font-family: 'Covered By Your Grace', sans-serif;
   font-size: 100px;
   line-height: 76px;
@@ -85,26 +85,27 @@ h1 {
 }
 
 h2 {
-  color: #E4BB97;
+  color: Orange;
   font-family: 'Raleway', sans-serif;
   font-size: 28px;
-  font-weight: 500;
+  font-weight: 600;
   text-align: left;
   text-transform: uppercase;
 }
 
 h3 {
-  color: #41292C;
-  font-family: 'Raleway', sans-serif;
-  font-size: 22px;
+  color: Blue;
+  font-family: 'Raleway', sans-serif bold;
+  font-size: 35px;
   font-weight: 500;
   text-align: center;
 }
 
 h4 {
+  color: Black;
   font-family: 'Raleway', sans-serif;
   font-size: 28px;
-  font-weight: 700;
+  font-weight: 800;
   line-height: .2em;
 }
 
@@ -112,7 +113,7 @@ h5 {
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
   line-height: .2em;
-  font-weight: 300;
+  font-weight: 1600;
 }
 
 /* Page elements */
@@ -126,15 +127,15 @@ li {
   border-bottom: 1px solid #E4BB97;
   list-style: none;
   margin: 100px 0px;
-  padding-bottom: 60px;
+  padding-bottom: 40px;
 }
 
 p {
-  color: #444444;
+  color: Blue;
   line-height: 32px;
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
-  font-weight: 100;
+  font-weight: 400;
 }
 
 a {
